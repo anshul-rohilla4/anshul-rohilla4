@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anshul-rohilla
 - 👀 I’m interested in java and c 
-- 🌱 I’m currently learning java
+- 🌱 I’m currently learning c.
 - 💞️ I’m looking to collaborate on java beginer learning projects
 - 📫 How to reach me anshulrohilla111@gmail.com / telegram @xaaqc
 
