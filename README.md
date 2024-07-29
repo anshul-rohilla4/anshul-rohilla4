@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @anshul-rohilla
-- i am a advanced beginner in c,c++,javascript.
-- learning the concepts of DSA,DAA..)
-- front_end developer with technologies including HTML, CSS,js, css-frameworks.
+- i am a advanced beginner in java,c++.
+- learning the concepts of DSA,DAA,OOPS,DBMS..)
+- front_end developer with technologies including HTML, CSS, javascript.
 - I’m looking to collaborate on DSA & front-end projects.
 - 📫 How to reach me:-- anshulrohilla111@gmail.com / telegram @niko_0004/ instagram anshul_0385.
 
