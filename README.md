@@ -13,7 +13,7 @@
 - 🎓 Advanced beginner in **Java, C++, and JavaScript**.
 - 📘 Learning **Data Structures, DAA, OOP, DBMS, COA, and OS**.
 - 🌐 Frontend developer skilled in **HTML, CSS, JavaScript, Tailwind CSS, and ReactJS**.
-- 🤝 Looking to collaborate on **DSA** and **frontend-related projects**.
+- 🤝
 
 ---
 
