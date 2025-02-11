@@ -85,8 +85,7 @@
 </p>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Code-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Code-React-blue?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Code-Java-red?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Hobby-Gaming-green?style=for-the-badge&logo=xbox&logoColor=white" />
   <img src="https://img.shields.io/badge/Focus-DSA-red?style=for-the-badge" />
 </div>
