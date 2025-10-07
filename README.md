@@ -12,8 +12,8 @@
 ### 👨‍💻 About Me
 - 🎓 Advanced beginner in **Java , and JavaScript**.
 - 📘 Learning **Data Structures, DAA, OOP, DBMS, COA, and OS**.
-- 🌐 Frontend developer familiar with ** JavaScript, Tailwind CSS, ReactJS, Bootstrap**.
-- 🤝
+- 🌐 Developer familiar with **Tailwind CSS, ReactJS, SpringBoot, Postman, Linux, ... .. . **.
+- 🧑‍💻 
 
 ---
 
