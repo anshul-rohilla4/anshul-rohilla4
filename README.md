@@ -12,7 +12,7 @@
 ### 👨‍💻 About Me
 - 🎓 Advanced beginner in **Java , and JavaScript**.
 - 📘 Learning **Data Structures, DAA, OOP, DBMS, COA, and OS**.
-- 🌐 Developer familiar with **Tailwind CSS, ReactJS, SpringBoot, Postman, Linux, ... .. . **.
+- 🌐 Developer familiar with **Tailwind CSS, ReactJS, SpringBoot, Postman, Linux, ... .. .**.
 - 🧑‍💻 
 
 ---
