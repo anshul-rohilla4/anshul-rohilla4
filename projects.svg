@@ -1,0 +1,294 @@
+<svg width="680" height="380" viewBox="0 0 680 380" xmlns="http://www.w3.org/2000/svg">
+
+<defs>
+
+<radialGradient id="r1" cx="50%" cy="50%" r="50%">
+<stop offset="0%" stop-color="#7c3aed" stop-opacity="0.55"/>
+<stop offset="100%" stop-color="#7c3aed" stop-opacity="0"/>
+</radialGradient>
+
+<radialGradient id="r2" cx="50%" cy="50%" r="50%">
+<stop offset="0%" stop-color="#0891b2" stop-opacity="0.48"/>
+<stop offset="100%" stop-color="#0891b2" stop-opacity="0"/>
+</radialGradient>
+
+<radialGradient id="r3" cx="50%" cy="50%" r="50%">
+<stop offset="0%" stop-color="#be185d" stop-opacity="0.42"/>
+<stop offset="100%" stop-color="#be185d" stop-opacity="0"/>
+</radialGradient>
+
+<clipPath id="rc">
+<rect width="680" height="380" rx="18"/>
+</clipPath>
+
+</defs>
+
+<rect width="680" height="380" rx="18" fill="#050816"/>
+
+<g clip-path="url(#rc)">
+
+<ellipse cx="80" cy="170" rx="220" ry="180" fill="url(#r1)">
+<animateTransform
+attributeName="transform"
+type="translate"
+values="0,0;60,40;-30,60;40,-40;0,0"
+dur="12s"
+repeatCount="indefinite"
+/>
+</ellipse>
+
+<ellipse cx="600" cy="170" rx="220" ry="180" fill="url(#r2)">
+<animateTransform
+attributeName="transform"
+type="translate"
+values="0,0;-50,30;40,-50;-30,60;0,0"
+dur="10s"
+repeatCount="indefinite"
+/>
+</ellipse>
+
+<ellipse cx="340" cy="360" rx="260" ry="120" fill="url(#r3)">
+<animateTransform
+attributeName="transform"
+type="translate"
+values="0,0;30,-50;-60,20;50,-30;0,0"
+dur="14s"
+repeatCount="indefinite"
+/>
+</ellipse>
+
+</g>
+
+<text
+x="42"
+y="42"
+font-family="'Times New Roman', Times, serif"
+font-size="13"
+fill="#94a3b8"
+letter-spacing="2"
+>
+FEATURED PROJECTS
+</text>
+
+<!-- SnippetShare -->
+
+<rect
+x="40"
+y="56"
+width="290"
+height="88"
+rx="12"
+fill="#0d0d1a"
+stroke="#6366f1"
+stroke-width="0.8"
+/>
+
+<text
+x="58"
+y="84"
+font-family="'Times New Roman', Times, serif"
+font-size="18"
+font-weight="700"
+fill="#c4b5fd"
+>
+SnippetShare
+</text>
+
+<text
+x="58"
+y="108"
+font-family="sans-serif"
+font-size="12"
+fill="#64748b"
+>
+snippet sharing platform · React · Spring Boot
+</text>
+
+<text
+x="58"
+y="126"
+font-family="monospace"
+font-size="11"
+fill="#8b5cf6"
+>
+MongoDB · JWT Auth · Full Stack
+</text>
+
+<!-- RightINFO -->
+
+<rect
+x="350"
+y="56"
+width="290"
+height="88"
+rx="12"
+fill="#0d0d1a"
+stroke="#06b6d4"
+stroke-width="0.8"
+/>
+
+<text
+x="368"
+y="84"
+font-family="'Times New Roman', Times, serif"
+font-size="18"
+font-weight="700"
+fill="#67e8f9"
+>
+RightINFO
+</text>
+
+<text
+x="368"
+y="108"
+font-family="sans-serif"
+font-size="12"
+fill="#64748b"
+>
+Content reliability platform
+</text>
+
+<text
+x="368"
+y="126"
+font-family="monospace"
+font-size="11"
+fill="#06b6d4"
+>
+Multi-model · AI analysis · Reliabilty
+</text>
+
+<!-- YelpCamp -->
+
+<rect
+x="40"
+y="164"
+width="290"
+height="88"
+rx="12"
+fill="#0d0d1a"
+stroke="#10b981"
+stroke-width="0.8"
+/>
+
+<text
+x="58"
+y="192"
+font-family="'Times New Roman', Times, serif"
+font-size="18"
+font-weight="700"
+fill="#6ee7b7"
+>
+YelpCamp DevOps
+</text>
+
+<text
+x="58"
+y="216"
+font-family="sans-serif"
+font-size="12"
+fill="#64748b"
+>
+production deployment pipeline on AWS
+</text>
+
+<text
+x="58"
+y="234"
+font-family="monospace"
+font-size="11"
+fill="#10b981"
+>
+Docker · Jenkins · Kubernetes · EC2
+</text>
+
+
+<!-- Footer -->
+
+<line
+x1="40"
+y1="290"
+x2="640"
+y2="290"
+stroke="#1e293b"
+stroke-width="0.8"
+/>
+
+<text
+x="40"
+y="322"
+font-family="'Times New Roman', Times, serif"
+font-size="13"
+fill="#94a3b8"
+letter-spacing="2"
+>
+CURRENT FOCUS
+</text>
+
+<rect
+x="40"
+y="336"
+width="110"
+height="28"
+rx="7"
+fill="#1a0f2e"
+stroke="#a855f7"
+stroke-width="0.8"
+/>
+
+<text
+x="95"
+y="354"
+font-family="monospace"
+font-size="12"
+fill="#d8b4fe"
+text-anchor="middle"
+>
+DevOps
+</text>
+
+<rect
+x="162"
+y="336"
+width="120"
+height="28"
+rx="7"
+fill="#0a1628"
+stroke="#06b6d4"
+stroke-width="0.8"
+/>
+
+<text
+x="222"
+y="354"
+font-family="monospace"
+font-size="12"
+fill="#67e8f9"
+text-anchor="middle"
+>
+AI Systems
+</text>
+
+<rect
+x="294"
+y="336"
+width="140"
+height="28"
+rx="7"
+fill="#1c1917"
+stroke="#f59e0b"
+stroke-width="0.8"
+/>
+
+<text
+x="364"
+y="354"
+font-family="monospace"
+font-size="12"
+fill="#fcd34d"
+text-anchor="middle"
+>
+Backend Infra
+</text>
+
+</svg>

@@ -1,0 +1,36 @@
+<svg width="340" height="120" viewBox="0 0 340 120" xmlns="http://www.w3.org/2000/svg">
+
+<defs>
+
+<radialGradient id="g1">
+<stop offset="0%" stop-color="#06b6d4" stop-opacity="0.35"/>
+<stop offset="100%" stop-color="#06b6d4" stop-opacity="0"/>
+</radialGradient>
+
+</defs>
+
+<rect width="340" height="120" rx="18" fill="#050816"/>
+
+<ellipse cx="260" cy="60" rx="140" ry="100" fill="url(#g1)">
+<animateTransform
+attributeName="transform"
+type="translate"
+values="0,0;-20,15;15,-10;-10,20;0,0"
+dur="10s"
+repeatCount="indefinite"
+/>
+</ellipse>
+
+
+
+<text
+x="40"
+y="60"
+font-family="monospace"
+font-size="30"
+fill="#67e8f9"
+>
+PROFILE VIEWS
+</text>
+
+</svg>
