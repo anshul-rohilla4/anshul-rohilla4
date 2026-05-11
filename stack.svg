@@ -48,15 +48,15 @@ fill="#0d1f13" stroke="#10b981"/>
 
 <rect x="274" y="70" width="90" height="34" rx="8"
 fill="#0c1e2e" stroke="#2496ed"/>
-<text x="319" y="92" fill="#7dd3fc" text-anchor="middle">Docker</text>
+<text x="319" y="92" fill="#7dd3fc" text-anchor="middle">MongoDB</text>
 
 <rect x="376" y="70" width="120" height="34" rx="8"
 fill="#1c1917" stroke="#f59e0b"/>
-<text x="436" y="92" fill="#fcd34d" text-anchor="middle">Kubernetes</text>
+<text x="436" y="92" fill="#fcd34d" text-anchor="middle">AWS</text>
 
 <rect x="508" y="70" width="70" height="34" rx="8"
 fill="#0a1628" stroke="#06b6d4"/>
-<text x="543" y="92" fill="#67e8f9" text-anchor="middle">AWS</text>
+<text x="543" y="92" fill="#67e8f9" text-anchor="middle">AI</text>
 
 </g>
 
